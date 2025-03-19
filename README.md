@@ -34,13 +34,18 @@ cd questiontest
 npm install
 ```
 
-3. Supabase projenizi oluşturun ve `supabase.js` dosyasında gerekli ortam değişkenlerini ayarlayın:
+3. Supabase projenizi oluşturun ve `services/supabase.js` dosyasında gerekli ortam değişkenlerini ayarlayın:
 ```
-SUPABASE_URL=your_supabase_url
-SUPABASE_ANON_KEY=your_supabase_anon_key
+supabaseUrl=your_supabase_url
+supabaseKey=your_supabase_anon_key
+```
+4. Supabase tablo adınızı `services/apiLeaderedTable.js` dosyasında gerekli değişkenleri ayarlayın:
+```
+tableName = your_supabase_table_name
+supabasenizdeki tableValue: {name, score} olmalı 
 ```
 
-4. Geliştirme sunucusunu başlatın:
+5. Geliştirme sunucusunu başlatın:
 ```
 npm run dev
 ```
@@ -48,6 +53,6 @@ npm run dev
 ## Kullanım
 
 1. Uygulamaya kaydolun veya giriş yapın
-2. Kendiniz hakkında sorular oluşturun
+2. Kendiniz hakkında sorular oluşturun(`data/questions.json`)
 3. Diğer kullanıcıların testlerini çözün
 4. Sonuçları görüntüleyin ve karşılaştırın
