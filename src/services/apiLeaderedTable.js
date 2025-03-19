@@ -1,7 +1,9 @@
 import supabase from "./supabase";
 
+const tableName = "YOUR_SUPABASE_TABLE_NAME"
+
 export async function getLeadered() {
-  let { data, error } = await supabase.from("leaderedTable").select("*");
+  let { data, error } = await supabase.from(tableName).select("*");
   if (error) {
     console.log(error);
     throw new Error("Veriler çekilirken bir hata oluştu.");
@@ -11,7 +13,7 @@ export async function getLeadered() {
 
 export async function createLeadered({ name, score }) {
   const { data, error } = await supabase
-    .from("leaderedTable")
+    .from(tableName)
     .insert([{ name, score }])
     .select();
 
