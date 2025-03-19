@@ -4,7 +4,7 @@
 
 Bu proje, kullanıcıların birbirlerini ne kadar tanıdıklarını test etmek için tasarlanmış interaktif bir web uygulamasıdır.
 
-##Projeyi Çalıştırmak için: https://sorular.ahmetyusuferten.com
+## Proje Demosu: https://sorular.ahmetyusuferten.com
 
 ## 📋 Proje Hakkında
 
