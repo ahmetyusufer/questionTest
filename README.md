@@ -1,3 +1,5 @@
+![Promotional image](src/assets/questionTest.png)
+
 # 🧠 QuestionTest
 
 Bu proje, kullanıcıların birbirlerini ne kadar tanıdıklarını test etmek için tasarlanmış interaktif bir web uygulamasıdır.
