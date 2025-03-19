@@ -4,6 +4,8 @@
 
 Bu proje, kullanıcıların birbirlerini ne kadar tanıdıklarını test etmek için tasarlanmış interaktif bir web uygulamasıdır.
 
+##Projeyi Çalıştırmak için: https://sorular.ahmetyusuferten.com
+
 ## 📋 Proje Hakkında
 
 QuestionTest, kullanıcıların birbirleri hakkında ne kadar bilgi sahibi olduklarını ölçen eğlenceli bir test uygulamasıdır. Her kullanıcı, kendisi hakkında sorular oluşturarak başlar. Diğer kullanıcılar bu soruları yanıtlar ve sonuçlar kaydedilir. Herkes birbirinin sonuçlarını görebilir ve kimin kimi daha iyi tanıdığını keşfedebilir.
