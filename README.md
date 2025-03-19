@@ -25,7 +25,7 @@ QuestionTest, kullanıcıların birbirleri hakkında ne kadar bilgi sahibi olduk
 
 1. Depoyu klonlayın:
 ```
-git clone https://github.com/kullaniciadi/questiontest.git
+git clone https://github.com/ahmetyusufer/questionTest.git
 cd questiontest
 ```
 
