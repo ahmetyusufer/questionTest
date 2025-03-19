@@ -1,0 +1,65 @@
+{
+  "questions": [
+    {
+      "question": "En sevdiğim yemek nedir?",
+      "options": ["Pizza", "Sushi", "Hamburger", "İçliköfte"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "En sevdiğim tatlı nedir?",
+      "options": ["Fıstıklı Sarma", "Cheesecake", "Ekler", "Baklava"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Hangi müzik türünü en çok severim?",
+      "options": ["Rock", "Pop", "Rap", "Jazz"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "En sevdiğim film türü nedir?",
+      "options": ["Aksiyon", "Komedi", "Dram", "Bilim Kurgu"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Hangi sporu en çok severim?",
+      "options": ["Yüzme", "Basketbol", "Buz Pateni", "Koşu"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "En sevdiğim renk nedir?",
+      "options": ["Pembe", "Mavi", "Lacivert", "Beyaz"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Hangi hayvanı en çok severim?",
+      "options": ["Köpek", "Kedi", "Tavşan", "Kuş"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Hangi ülkeye gitmek isterim?",
+      "options": ["Japonya", "Amerika", "İtalya", "Fransa"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "En sevdiğim içecek nedir?",
+      "options": ["Kahve", "Çay", "Kola", "Limonata"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Hangi enstrümanı çalmak isterdim?",
+      "options": ["Gitar", "Piyano", "Keman", "Davul"],
+      "correctOption": 1,
+      "points": 10
+    }
+  ],
+  "name": "Ahmet"
+}
